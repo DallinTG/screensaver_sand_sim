@@ -1,0 +1,10 @@
+{
+	"ODIN_OS": "Linux",
+	"ODIN_ARCH": "amd64",
+	"ODIN_ENDIAN": "Little",
+	"ODIN_VENDOR": "odin",
+	"ODIN_VERSION": "dev-2025-09",
+	"ODIN_ROOT": "/usr/lib/odin/",
+	"ODIN_DEBUG": true,
+	"last_time_played": "2025 September 23"
+}
